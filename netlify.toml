@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+  command = "echo 'Email signature ready for deployment'"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

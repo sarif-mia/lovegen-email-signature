@@ -1,0 +1,159 @@
+/* Professional Email Signature Styles */
+.email-signature {
+    width: 500px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    line-height: normal;
+    background: transparent !important;
+}
+
+.signature-table {
+    width: 500px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    line-height: normal;
+    background: transparent !important;
+}
+
+.logo-cell {
+    width: 150px;
+    vertical-align: top;
+}
+
+.divider-cell {
+    width: 44px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.content-cell {
+    width: 364px;
+    vertical-align: top;
+}
+
+.name {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #2c3e50;
+    line-height: 20px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.title {
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    line-height: 22px;
+    font-weight: bold;
+    color: #34495e;
+}
+
+.title-text {
+    font-family: Arial, sans-serif;
+    color: #34495e;
+    line-height: 15px;
+}
+
+.contact-info {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: #7f8c8d;
+    padding-bottom: 2px;
+    display: block;
+}
+
+.bold-text {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.email-link {
+    font-family: Arial, sans-serif;
+    color: #3498db;
+    text-decoration: none;
+}
+
+.email-link:hover {
+    text-decoration: underline;
+}
+
+.website-link {
+    text-decoration: none;
+    color: #3498db;
+}
+
+.website-link:hover {
+    text-decoration: underline;
+}
+
+.address {
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    color: #95a5a6;
+    padding-bottom: 1px;
+    line-height: 16px;
+}
+
+.social-icons-container {
+    padding-top: 12px;
+    vertical-align: bottom;
+}
+
+.social-icon {
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.social-link {
+    text-decoration: none;
+    display: inline-block;
+    transition: opacity 0.3s ease;
+}
+
+.social-link:hover {
+    opacity: 0.8;
+}
+
+.icon-svg {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    fill: #34495e;
+}
+
+.icon-facebook:hover .icon-svg {
+    fill: #3b5998;
+}
+
+.icon-linkedin:hover .icon-svg {
+    fill: #0077b5;
+}
+
+.icon-youtube:hover .icon-svg {
+    fill: #ff0000;
+}
+
+.icon-instagram:hover .icon-svg {
+    fill: #e4405f;
+}
+
+.icon-whatsapp:hover .icon-svg {
+    fill: #25d366;
+}
+
+/* Divider styling */
+.divider-line {
+    width: 2px;
+    height: 135px;
+    background-color: rgb(190, 194, 194);
+    margin: 0 auto;
+    display: block;
+}
+
+.divider-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
